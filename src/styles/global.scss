@@ -1,0 +1,18 @@
+html {
+    font-family: system-ui, sans-serif;
+}
+
+body {
+    display: flex;
+    flex: 1;
+    background: radial-gradient(#444 0.4px, #111 0.5px);
+    color: rgb(204, 129, 255);
+    // background: radial-gradient(#ddd 0.4px, #f7f7f7 0.5px);
+    // color: rgb(0, 0, 0);
+    background-size: calc(10 * 1px) calc(10 * 1px);
+}
+
+code {
+    font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
+        Bitstream Vera Sans Mono, Courier New, monospace;
+}
